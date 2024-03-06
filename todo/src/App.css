@@ -1,0 +1,23 @@
+/* @import "normalize.css";
+@import "@blueprintjs/core/lib/css/blueprint.css";
+@import "@blueprintjs/core/lib/css/blueprint-icons.css";*/
+body{ 
+  display : flex;
+  justify-content: center;
+}
+
+/* #id{
+  padding:20px;
+}
+#name{
+  padding:20px;
+}
+#mail{
+  padding:20px;
+}
+#website{
+  padding:20px;
+}
+#action{
+  padding:20px;
+} */
